@@ -1,4 +1,4 @@
-# :dizzy: Welcome to Sanjana's World :dizzy:
+# 💫 Welcome to Sanjana's World 💫
 This is my first code commit! I hope to add a lot to this website over the coming months so stay tuned.
 ## About Me
 Hello there! I'm passionate about the crossroads of business and technology and am currently a product manager designing a web app from scratch for Rafiki Africa through Develop for Good. I thrive on building innovative solutions and have had the chance to do so in diverse sectors, from AI-driven apps at Tarjimly to fintech platforms like Standard Metrics.
@@ -8,3 +8,4 @@ I believe in using technology and business to make a difference, and I'd say it'
 When I unplug, you might find me writing/singing music, practicing pilates, building a new Lego set, or watching Studio Ghibli films. As a native Tamil speaker, I love sharing my cultural roots (the best food on earth) and learning about others.
 
 Being a people person at heart, I thoroughly enjoy sparking up conversations, understanding different perspectives, and building meaningful relationships. Whether it's discussing the latest fintech trends, exchanging Lego sets, or sharing your favorite films, I believe in the power of conversation and connection. Let's talk!
+## Resume
