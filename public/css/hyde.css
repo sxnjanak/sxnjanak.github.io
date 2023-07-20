@@ -76,7 +76,7 @@ html {
 }
 
 /* Profile image */
-.sidebar-profile-img img {
+.sidebar-profile-img {
   display: block;
   margin: 0 auto 1rem;
   width: 6rem;
