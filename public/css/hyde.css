@@ -79,8 +79,8 @@ html {
 .sidebar-profile-img {
   display: block;
   margin: 0 auto 1rem;
-  width: 6rem;
-  height: 6rem;
+  width: 12rem;
+  height: 12rem;
   border-radius: 50%;
   border: .25rem solid #fff;
 }
