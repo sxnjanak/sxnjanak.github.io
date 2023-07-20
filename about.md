@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello there! I'm passionate about the crossroads of business and technology and am currently a product manager designing a web app from scratch for Rafiki Africa through Develop for Good. I thrive on building innovative solutions and have had the chance to do so in diverse sectors, from AI-driven apps at Tarjimly to fintech platforms like Standard Metrics.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I believe in using technology and business to make a difference, and I'd say it's a recurring theme that has guided my academic and career interests.
 
-There are currently two themes built on Poole:
+When I unplug, you might find me writing/singing music, practicing pilates, building a new Lego set, or watching Studio Ghibli films. As a native Tamil speaker, I love sharing my cultural roots (the best food on earth) and learning about others.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Being a people person at heart, I thoroughly enjoy sparking up conversations, understanding different perspectives, and building meaningful relationships. Whether it's discussing the latest fintech trends, exchanging Lego sets, or sharing your favorite films, I believe in the power of conversation and connection. Let's talk!
